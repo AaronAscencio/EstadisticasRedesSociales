@@ -93,4 +93,16 @@ Bibliotecas implementadas:
 
 # Capturas de Pantalla
 
+1. Pantalla principal
 [![Index.jpg](https://i.postimg.cc/ZKk7Z8yQ/Index.jpg)](https://postimg.cc/K4NrDgf7)
+
+2. Formulario para el llenado de la encuesta
+[![Formulario.jpg](https://i.postimg.cc/RZvzC5n2/Formulario.jpg)](https://postimg.cc/Mv3LtL5Y)
+
+3. Validaciones en el formulario 
+
+3.1 Validacion si el usuario ha ingresado un texto en el campo de correo
+[![validaciones1.jpg](https://i.postimg.cc/xdWxCM4q/validaciones1.jpg)](https://postimg.cc/rdNCZ0cL)
+
+3.2 Validacion si el correo es valido
+[validaciones2.jpg](https://postimg.cc/jCLPPkWT)
