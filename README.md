@@ -1,2 +1,3 @@
 # EstadisticasRedesSociales
-Prueba Tecnica
+
+# Guia  de Instalacion 
