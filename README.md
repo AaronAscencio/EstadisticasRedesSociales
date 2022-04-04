@@ -105,4 +105,13 @@ Bibliotecas implementadas:
 [![validaciones1.jpg](https://i.postimg.cc/xdWxCM4q/validaciones1.jpg)](https://postimg.cc/rdNCZ0cL)
 
 3.2 Validacion si el correo es valido
-[validaciones2.jpg](https://postimg.cc/jCLPPkWT)
+[![validaciones2.jpg](https://i.postimg.cc/mZSjxvBP/validaciones2.jpg)](https://postimg.cc/jCLPPkWT)
+
+3.3 Validacion de tiempos mayores a 0 horas
+[![validaciones3.jpg](https://i.postimg.cc/T2ZD4QWK/validaciones3.jpg)](https://postimg.cc/t7NJ13kb)
+
+4 Mensaje de Exito al enviar una encuesta (Si el formulario es valido)
+[![Mensaje-de-Exito.jpg](https://i.postimg.cc/FFcR7v7K/Mensaje-de-Exito.jpg)](https://postimg.cc/CdhYQWCy)
+
+5 Alerta de error si el correo ya ha sido ingresado
+[![Error-correo-duplicado.jpg](https://i.postimg.cc/VLL32BQc/Error-correo-duplicado.jpg)](https://postimg.cc/23McZWSH)
