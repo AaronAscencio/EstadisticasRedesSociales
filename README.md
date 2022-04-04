@@ -40,7 +40,7 @@ menos:
 • Rango de edad que más use cada red social (ejemplo: Facebook entre 18-25 e Instagram entre 
 26-33)
 
-#Tecnologias implementadas
+# Tecnologias implementadas
 
 -Boostrap 4
 
