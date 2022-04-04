@@ -90,3 +90,7 @@ Bibliotecas implementadas:
 # Consideraciones 
 1. Solo se permite un correo por encuesta
 2. La entrada del promedio por cada red social es en decimal por ejemplo 4.5 = 4 horas con 30 minutos
+
+# Capturas de Pantalla
+
+[![Index.jpg](https://i.postimg.cc/ZKk7Z8yQ/Index.jpg)](https://postimg.cc/K4NrDgf7)
