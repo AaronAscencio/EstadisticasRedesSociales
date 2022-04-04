@@ -75,8 +75,11 @@ Bibliotecas implementadas:
 
 3. Cambiar la configuracion de forma local (modificar los archivos manage.py y wsgi.py)
 
+Remplazar la linea 16 del archivo "wsgi.py" por lo siguiente: os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'project.settings.local')
 
-4. Adecuar la conexion de la base de datos (Entrar a la carpeta "Project", "Setting") en el archivo "base.py"
+Remplazar la linea 9 del archivo "manage.py" por lo siguiente: os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'project.settings.local')
+
+4. Adecuar la conexion de la base de datos (Entrar a la carpeta project/settings) en el archivo "local.py"
 
 
 5. Correr el comandos en la consola:
