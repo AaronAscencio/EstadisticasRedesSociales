@@ -1,5 +1,7 @@
 # EstadisticasRedesSociales
 
+Autor: Ascencio Mata Aaron 
+
 # Problematica
 Generar una web para llenado de una encuesta sobre uso de redes sociales, 
 dicho cuestionario deberá tener mínimo las siguientes preguntas:
@@ -30,6 +32,14 @@ Ajax
 Django
 PostgreSQL
 
+Bibliotecas implementadas:
+-Gunicorn
+-dj-static
+-Chartjs
+-SweetAlert
+
+
+
 # Guia  de Instalacion 
 
 1. Descargar o clonar el repositorio
@@ -51,3 +61,7 @@ PostgreSQL
   -Tiktok
   -Otra
 8. Una vez creadas, podemos ingresar al dashboard localhost:8000/
+
+# Consideraciones 
+1. Solo se permite un correo por encuesta
+2. La entrada del promedio por cada red social es en decimal por ejemplo 4.5 = 4 horas con 30 minutos
