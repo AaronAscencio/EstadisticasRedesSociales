@@ -7,6 +7,7 @@ Live Demo: https://redessocialesestadisticas.herokuapp.com/
 # Problematica
 Generar una web para llenado de una encuesta sobre uso de redes sociales, 
 dicho cuestionario deberá tener mínimo las siguientes preguntas:
+
 • Correo del participante
 
 • Edad, seleccionable de 4 rangos, ejemplo: 18-25, 26-33, 34-40, 40+
@@ -41,15 +42,15 @@ menos:
 
 #Tecnologias implementadas
 
-Boostrap 4
+-Boostrap 4
 
-Jquery
+-Jquery
 
-Ajax
+-Ajax
 
-Django
+-Django
 
-PostgreSQL
+-PostgreSQL
 
 
 Bibliotecas implementadas:
