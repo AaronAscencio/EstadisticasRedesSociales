@@ -68,27 +68,50 @@ Bibliotecas implementadas:
 # Guia  de Instalacion 
 
 1. Descargar o clonar el repositorio
+
+
 2. Instalar las bibliotecas (pip install -r requirements.txt)
+
+
 3. Cambiar la configuracion de forma local (modificar los archivos manage.py y wsgi.py)
+
+
 4. Adecuar la conexion de la base de datos (Entrar a la carpeta "Project", "Setting") en el archivo "base.py"
+
+
 5. Correr el comandos en la consola:
+
+
    "python manage.py makemigrations"
+   
    "python manage.py migrate"
+   
    "python manage.py createsuperuser"
+   
    **NOTA Ingresar los datos para crear un super usuario
+   
    "python manage.py runserver"
 6. Ingresar al administrador de Django http://localhost:8000/admin
+
+
 7. Crear las siguientes Sociales:
   -Facebook
+  
   -Whatsapp
+  
   -Twitter
+  
   -Instagram
+  
   -Tiktok
+  
   -Otra
+  
 8. Una vez creadas, podemos ingresar al dashboard localhost:8000/
 
 # Consideraciones 
 1. Solo se permite un correo por encuesta
+
 2. La entrada del promedio por cada red social es en decimal por ejemplo 4.5 = 4 horas con 30 minutos
 
 # Capturas de Pantalla
