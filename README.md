@@ -8,36 +8,58 @@ Live Demo: https://redessocialesestadisticas.herokuapp.com/
 Generar una web para llenado de una encuesta sobre uso de redes sociales, 
 dicho cuestionario deberá tener mínimo las siguientes preguntas:
 • Correo del participante
+
 • Edad, seleccionable de 4 rangos, ejemplo: 18-25, 26-33, 34-40, 40+
+
 • Sexo
+
 • Red social favorita 
+
 • Tiempo promedio al día en Facebook
+
 • Tiempo promedio al día en WhatsApp
+
 • Tiempo promedio al día en Twitter
+
 • Tiempo promedio al día en Instagram
+
 • Tiempo promedio al día en Tiktok
+
 
 La aplicación web adicionalmente deberá contar con un apartado de estadísticas donde se pueda ver al 
 menos:
 • Cantidad de encuestas respondidas
+
 • Tiempo promedio por red social
+
 • Red social favorita
+
 • Red social menos querida
+
 • Rango de edad que más use cada red social (ejemplo: Facebook entre 18-25 e Instagram entre 
 26-33)
 
 #Tecnologias implementadas
 
 Boostrap 4
+
 Jquery
+
 Ajax
+
 Django
+
 PostgreSQL
 
+
 Bibliotecas implementadas:
+
 -Gunicorn
+
 -dj-static
+
 -Chartjs
+
 -SweetAlert
 
 
